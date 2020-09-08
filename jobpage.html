@@ -1,0 +1,78 @@
+<style>
+    h2 {
+        font-family: Helvetica; 
+        color:crimson;
+        text-align:center;
+        background-color: rgba(39, 35, 35, 0.1)
+    } 
+    body {
+      background-color: lightgrey;
+        background-image: url("https://www.transparenttextures.com/patterns/subtle-zebra-3d.png");
+    }  
+    .Harry {
+  overflow: hidden;
+  background-color: rgb(0, 0, 0);
+}
+
+.Harry a {
+  float: left;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  
+}
+
+.Harry a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.Harry a.active {
+  background-color: #9c4946;
+  color: rgb(255, 255, 255);
+}
+ol { 
+  text-align: left;
+  flex-wrap: wrap;
+}
+img {
+  display:flex;
+}
+  
+    
+</style>
+<title> De jobpage van Mats Bouwense </title> 
+<header>
+    <div class="Harry">
+        <a class="active" href="https://matsbnl.github.io/README.html">Jobpage van Mats Bouwense</a>
+        <a href="https://matsbnl.github.io/README2.html">Profielpagina</a>
+        <a href="https://matsbnl.github.io/Dashboard.html">Dashboard</a>
+        <a  href="https://matsbnl.github.io/Vragen.html">FAQ</a>
+      </div>
+<hr>
+</header>
+
+<body>
+  <img src="https://slm-assets.secondlife.com/assets/25228240/lightbox/Screenshot_1663.jpg?1576481445" alt="bigbrain" width="400" height="235" style="float:right"  >
+<h2>Waarom hoort het HBO lvl bij mij </h2> 
+<ol>
+    <li>Ik heb havo gedaan op het Ostrea Lyceum een school in Goes en daar heb ik  me HBO diploma gehaald dus zo heb ik bewezen dat ik slim genoeg ben om dit te kunnen dit de volgende stap in me educatie.</li>
+    <li>Ik heb op de Havo ook informatica gedaan en daar heb ik laten zien dat programmeren bij mij lukt want ik stond aan het eind van het jaar in de 7 gemiddeld dus dat heeft laten zien dat ik dit ook moet kunenn want dit is natuurlijk een beetje hetzelfde het is niet dat ik hier een onvoldoende voor stond</li>
+    <li>Ik denk dat ik hier ook geschikt voor ben omdat ik redelijk wat op computers kan doordat ik er zoveel opzit. <br>
+       Want dan heb je soms een probleem gehad op je computer en dan wist je niet hoe je het moest fixen en dan zoekte je het op op google en dan daarna wist je hoe je het moest oplossen dus ik heb een soort selfmade ervaring</li>
+</ol>
+<h2> 
+   Waarom is het study programma goed met mijn personaliteit  
+</h2>
+<img src="https://images2.persgroep.net/rcs/M6IQ3G3fnk3vv_GjeWZVDKRi7Ng/diocontent/160287232/_fitwidth/694/?appId=21791a8992982cd8da851550a453bd7f&quality=0.8" alt="hidepain" width="600" height="345" style="float:right" >
+<ol>
+  <li> IK hou heel erg van achter de computer te zitten en dingen digitaal te doen.<br> En wat moet je nou net bij deze opleiding doen achter de computer zitten als dat niet goed uitkomt weet ik het ook niet meer.</li> 
+  <li> Verder vind ik de digitale wereld heel intressant we leven niet voor niks in een goude tijdperk van technologie.<br> we zitten nog steeds technologie te verbeteren op vele velden zoals VR en andere digitale stukken.<br> Verder gaat alles tegenwoordig digitaal waar je ook bent het is een heel belangerijk onderdeel in de maatschapij en daarom wil  <br>ik er juist meer over weten en het zelf gebruiken om me eigen dingen temaken zoals sites en programma's. </li>
+  <li> Ook vind ik het leuk om problemen optelossen zoals wanneer je een site maakt en het dan niet werkt.<br> Want dan moet je gaan kijken wat is er mis gegaan en wat niet en dan heb je een soort van puzzle die je moet oplossen. <br> Ik vind dat dit het juist leuk maakt lekker puzzelen en een beetje testen en als het faalt het weer opnieuw proberen .<br> Dus wanneer ik dan met deze opleiding bezig ben word ik minder snel afgeleid want ik vind het leuk om te doen. <br> En dat maakt school  nu geen last meer maar  juist een leuke activiteit je hoeft niet meer dingen te doen die je stom vind. </li>
+</ol>
+
+
+</body>
+<footer>
+</footer>
